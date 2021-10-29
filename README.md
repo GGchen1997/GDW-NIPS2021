@@ -1,6 +1,6 @@
-﻿# Generalized Data Weighting via Class-Level Gradient Manipulation
+﻿# Generalized Data Weighting via Class-level Gradient Manipulation
 
-This repository is the official implementation of [Generalized Data Weighting via Class-Level Gradient Manipulation (NeurIPS 2021)](https://arxiv.org/abs/2030.12345). If you find our code useful in your research then please cite:
+This repository is the official implementation of [Generalized Data Weighting via Class-level Gradient Manipulation (NeurIPS 2021)](https://arxiv.org/abs/2030.12345). If you find our code useful in your research then please cite:
 
 <div  align="center"> 
 <img src="./pic/intro.png" width = "300" height = "200" align=center />
