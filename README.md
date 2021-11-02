@@ -2,6 +2,7 @@
 
 This repository is the official implementation of [Generalized Data Weighting via Class-level Gradient Manipulation (NeurIPS 2021)](http://arxiv.org/abs/2111.00056). If you find our code useful in your research then please cite:
 
+
 @misc{chen2021generalized,
       title={Generalized Data Weighting via Class-level Gradient Manipulation}, 
       author={Can Chen and Shuhao Zheng and Xi Chen and Erqun Dong and Xue Liu and Hao Liu and Dejing Dou},
