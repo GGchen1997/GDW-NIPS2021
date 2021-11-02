@@ -5,6 +5,7 @@ This repository is the official implementation of [Generalized Data Weighting vi
 <div  align="center"> 
 <img src="./pic/intro.png" width = "400" height = "250" align=center />
 </div>
+<br/><br/>
 
 If you find this code useful in your research then please cite:   
 ```bash
