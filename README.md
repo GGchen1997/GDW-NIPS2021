@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Run mw-net and gdw on CIFAR10
 
-Download [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) and place it in *./data*.
+Download [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) and place it in *./data*.
 
 To compare mw-net and gdw on CIFAR10 under 40% uniform noise, run this command:
 ```train
