@@ -6,14 +6,6 @@ This repository is the official implementation of [Generalized Data Weighting vi
 <img src="./pic/intro.png" width = "300" height = "200" align=center />
 </div>
 
-@misc{chen2021generalized,
-      title={Generalized Data Weighting via Class-level Gradient Manipulation}, 
-      author={Can Chen and Shuhao Zheng and Xi Chen and Erqun Dong and Xue Liu and Hao Liu and Dejing Dou},
-      year={2021},
-      eprint={2111.00056},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
 
 
 
