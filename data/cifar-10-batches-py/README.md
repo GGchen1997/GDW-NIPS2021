@@ -1,6 +1,4 @@
-### Place CIFAR10 here
-
-We should have:
+Place CIFAR10 here and then we should have:
 
  - data_batch_1
  - data_batch_2
