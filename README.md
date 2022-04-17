@@ -9,13 +9,16 @@ This repository is the official implementation of [Generalized Data Weighting vi
 
 If you find this code useful in your research then please cite:   
 ```bash
-@misc{chen2021generalized,
-      title={Generalized Data Weighting via Class-level Gradient Manipulation}, 
-      author={Can Chen and Shuhao Zheng and Xi Chen and Erqun Dong and Xue Liu and Hao Liu and Dejing Dou},
-      year={2021},
-      eprint={2111.00056},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{NEURIPS2021_75ebb02f,
+ author = {Chen, Can and Zheng, Shuhao and Chen, Xi and Dong, Erqun and Liu, Xue (Steve) and Liu, Hao and Dou, Dejing},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {14097--14109},
+ publisher = {Curran Associates, Inc.},
+ title = {Generalized DataWeighting via Class-Level Gradient Manipulation},
+ url = {https://proceedings.neurips.cc/paper/2021/file/75ebb02f92fc30a8040bbd625af999f1-Paper.pdf},
+ volume = {34},
+ year = {2021}
 }
 ``` 
 
