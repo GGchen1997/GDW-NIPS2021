@@ -9,13 +9,13 @@ This repository is the official implementation of [Generalized Data Weighting vi
 
 If you find this code useful in your research then please cite:   
 ```bash
-@inproceedings{
-chen2022bidirectional,
-title={Bidirectional Learning for Offline Infinite-width Model-based Optimization},
-author={Can Chen and Yingxue Zhang and Jie Fu and Xue Liu and Mark Coates},
-booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
-year={2022},
-url={https://openreview.net/forum?id=_j8yVIyp27Q}
+@article{chen2021generalized,
+  title={Generalized DataWeighting via Class-Level Gradient Manipulation},
+  author={Chen, Can and Zheng, Shuhao and Chen, Xi and Dong, Erqun and Liu, Xue Steve and Liu, Hao and Dou, Dejing},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={14097--14109},
+  year={2021}
 }
 ``` 
 
